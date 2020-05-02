@@ -6,4 +6,4 @@ Hi~
 ```ruby
 {% include code.c %}
 ```
-Hey!
+Hey! I am Peter!
