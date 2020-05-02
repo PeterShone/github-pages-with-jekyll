@@ -4,6 +4,6 @@ date: 2020-05-03
 ---
 Hi~
 ```ruby
-{% include code.c %}
+{% include_relative code.c %}
 ```
 Hey!
